@@ -1,7 +1,5 @@
 Classical search problem
-
 8 Puzzle Matlab Illustration
-
 A* search tree algorithm for solving 8 puzzle problem
 
 trees_main(puzzle_ind,print_f,nls)
