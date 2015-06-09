@@ -9,7 +9,7 @@
 %   print_f = 0/1, 1 to show the step solutions 
 %   nls = 0/1, 1 to Nilsson Score
 %
-% Calls: 
+% Calls functions: 
 %   trees (A* search)
 %   trees_gm (Generate moves)
 %   trees_mh (Manhattan metrics)
